@@ -63,6 +63,7 @@ body {
 .result.lose,
 .score p span {
   color: red;
+  background-color: transparent;
 }
 
 .score {
